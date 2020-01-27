@@ -139,9 +139,9 @@ DATABASES = {
     'default': {
         "ENGINE": "tenant_schemas.postgresql_backend",
         "HOST": "localhost",
-        "NAME": "multitenant_db",
-        "USER": "youtilitydba",
-        "PASSWORD": "!!sysadmin!!",
+        "NAME": "multitenant_db",       # change database name
+        "USER": "your_username",        # change username 
+        "PASSWORD": "your_password",    # change password
         "PORT": 5432        
     }
 }
