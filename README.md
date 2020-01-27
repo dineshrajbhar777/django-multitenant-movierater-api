@@ -1,5 +1,6 @@
-#####################################
-# django-multitenant-movierater-api #
-#####################################
+***************************************
+*  django-multitenant-movierater-api  *
+***************************************
+
 
 basic django multitenant movierater api 
