@@ -4,7 +4,7 @@ django-solo==1.1.3
 django-tenant-schemas==1.10.0
 djangorestframework==3.11.0
 ordered-set==3.1.1
-Pillow==7.0.0
+Pillow==8.3.2
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
 pytz==2019.3
